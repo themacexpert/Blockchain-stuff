@@ -126,9 +126,9 @@ Curated list of blockchain and general cryptocurrency resources
 
 ### Talks
 - [x] [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30) 
-- [ ] [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
+- [x] [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
 - [ ] [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
-- [ ] [Bitcoin Is Exciting Because It's Cheap](https://www.youtube.com/watch?t=26&v=DyAufA2lWn0) - Bill Gates
+- [x] [Bitcoin Is Exciting Because It's Cheap](https://www.youtube.com/watch?t=26&v=DyAufA2lWn0) - Bill Gates
 - [x] [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
 - [ ] [Bitcoin. Sweat. Tide. Meet the future of branded currency.(11min)](https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en) - Paul Kemp-Robertson
 - [ ] [Convergex Group, Nick Colas (3min):](https://www.youtube.com/watch?v=CdVVECKKSXo)
