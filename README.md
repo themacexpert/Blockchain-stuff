@@ -125,30 +125,30 @@ Curated list of blockchain and general cryptocurrency resources
 
 
 ### Talks
-- [ ] [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30) 
+- [x] [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30) 
 - [ ] [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
 - [ ] [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
 - [ ] [Bitcoin Is Exciting Because It's Cheap](https://www.youtube.com/watch?t=26&v=DyAufA2lWn0) - Bill Gates
-- [ ] [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
+- [x] [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
 - [ ] [Bitcoin. Sweat. Tide. Meet the future of branded currency.(11min)](https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en) - Paul Kemp-Robertson
 - [ ] [Convergex Group, Nick Colas (3min):](https://www.youtube.com/watch?v=CdVVECKKSXo)
 - [ ] [Defining bitcoin ownership, 2 min](https://www.youtube.com/watch?v=TANjGSo16Uk)
-- [ ] [Ending the Federal Reserve's Monopoly (6 min):](http://vimeo.com/94697840)
+- [x] [Ending the Federal Reserve's Monopoly (6 min):](http://vimeo.com/94697840)
 - [ ] [Everything You Need to Know About Bitcoin](https://www.youtube.com/watch?v=SNssKmeXrGs) - Reihan Salams
 - [ ] [How Cryptocurrencies Can Succeed: the Stripe Perspective(20min)](https://www.youtube.com/watch?v=6qZwl7mukZ8) - Greg Brockman
 - [ ] [How the Blockchain is Changing Money and Business (19 min)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=en) - Don Tapscott
-- [ ] [Internet vs Bitcoin (3min):](https://www.youtube.com/watch?v=s0luLPVHkO4)
+- [x] [Internet vs Bitcoin (3min):](https://www.youtube.com/watch?v=s0luLPVHkO4)
 - [ ] [Join The Bitcoin Revolution (4min):](https://www.youtube.com/watch?v=24ce5tV-pgg)
 - [ ] [TEDx, Crytpocurrencies like Bitcoin are coming, and it's a good thing (11min):](https://www.youtube.com/watch?v=0GL9PTQiqxw) - Juan Llanos
 - [ ] [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
 - [ ] [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
-- [ ] [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
+- [x] [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
 - [ ] [Stopping War: (1 min)](https://www.youtube.com/watch?v=eyU3TgQqtV8)
 - [ ] [TEDx, Distributing Power & Trust (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww) -  Eric Spano
 - [ ] [Testimony for the Australian Senate Commitee on Economics References(36min)](https://www.youtube.com/watch?v=XotOwt8bTeI&feature=youtu.be)
-- [ ] [The Future of Bitcoin: New Applications and Rebuilding the banking system: (28min)](https://www.youtube.com/watch?v=mD4L7xDNCmA) - Mike Hearn
+- [x] [The Future of Bitcoin: New Applications and Rebuilding the banking system: (28min)](https://www.youtube.com/watch?v=mD4L7xDNCmA) - Mike Hearn
 - [ ] [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
-- [ ] [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
+- [x] [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
 - [ ] [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 
 ### Youtube Channels
