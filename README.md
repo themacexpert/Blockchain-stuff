@@ -151,6 +151,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [x] [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
 - [x] [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 - [x] [Securing Bitcoin with Olaf Carlson-Wee](https://www.youtube.com/watch?v=y-qLJ_uxqho)
+- [x] [How Bitcoin Will Change the World with Tim Draper](https://www.youtube.com/watch?v=YGxOHR1vnSo)
 
 ### Youtube Channels
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
